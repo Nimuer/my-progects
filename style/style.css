@@ -12,6 +12,8 @@ body {
 }
 p {
   font-size: 18px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 img {
   margin-bottom: 15px;
@@ -50,6 +52,10 @@ img {
 .email-name {
   font-size: 24px;
 }
+.description-header {
+  padding-left: 30px;
+  padding-right: 30px;
+}
 .app-name-header {
   font-size: 48px;
 }
@@ -75,6 +81,13 @@ img {
   }
   h1.name-header {
     font-size: 64px;
+  }
+  h3.name-header {
+    font-size: 48px;
+  }
+  .email-name,
+  .email {
+    font-size: 16px;
   }
   .hi-header {
     font-size: 28px;
